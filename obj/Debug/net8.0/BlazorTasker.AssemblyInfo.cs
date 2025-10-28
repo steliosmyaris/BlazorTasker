@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorTasker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4289a5fee8e2bceed863e6ae91ac2a4d2a6902ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd12d08a479f6775c92e67cf31938ad3e39fecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorTasker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorTasker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
