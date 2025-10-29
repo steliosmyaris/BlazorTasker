@@ -1034,6 +1034,7 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-nb8b3m15d9.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-a8l4ffw1wo.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-fyj2bqgfy3.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Pages\Tasker.razor.rz.scp.css
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-fu2at2va6r.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-c7pzb3mx8q.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-bzqrch1pm4.gz

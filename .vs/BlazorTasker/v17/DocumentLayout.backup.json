@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\pages\\reverseastring.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\pages\\reverseastring.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\pages\\tasker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\pages\\tasker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\ui\\message.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\ui\\message.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\pages\\tasker.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\pages\\tasker.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Message.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\UI\\Message.razor",
-              "RelativeDocumentMoniker": "Components\\UI\\Message.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\UI\\Message.razor",
-              "RelativeToolTip": "Components\\UI\\Message.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T09:18:39.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\_Imports.razor",
-              "RelativeToolTip": "Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T09:17:36.026Z",
+              "Title": "Tasker.razor.css",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\Tasker.razor.css",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor.css",
+              "RelativeToolTip": "Components\\Pages\\Tasker.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T15:55:47.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReverseAString.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\ReverseAString.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\ReverseAString.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\ReverseAString.razor",
-              "RelativeToolTip": "Components\\Pages\\ReverseAString.razor",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBEAAABcAAAAAAAAAA==",
+              "Title": "Tasker.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Tasker.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor",
+              "RelativeToolTip": "Components\\Pages\\Tasker.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T17:58:06.19Z",
+              "WhenOpened": "2025-10-29T13:06:08.101Z",
               "EditorCaption": ""
             }
           ]
