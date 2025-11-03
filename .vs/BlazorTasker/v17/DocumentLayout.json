@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\pages\\tasker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\ui\\taskerline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\ui\\taskerline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|c:\\users\\steli\\source\\repos\\blazortasker\\components\\pages\\tasker.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9561A354-0CFD-4917-B4BE-B6C06B8361E0}|BlazorTasker.csproj|solutionrelative:components\\pages\\tasker.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TaskerLine.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\UI\\TaskerLine.razor",
+              "RelativeDocumentMoniker": "Components\\UI\\TaskerLine.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\UI\\TaskerLine.razor",
+              "RelativeToolTip": "Components\\UI\\TaskerLine.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T07:56:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tasker.razor.css",
               "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\Tasker.razor.css",
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Tasker.razor",
               "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorTasker\\Components\\Pages\\Tasker.razor",
               "RelativeToolTip": "Components\\Pages\\Tasker.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-29T13:06:08.101Z",
               "EditorCaption": ""

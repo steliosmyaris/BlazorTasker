@@ -7,7 +7,7 @@
         </div>
 
         <div>
-            <EditForm Model="ti">
+            <EditForm Model="ti" OnValidSubmit="addTask">
                 <DataAnnotationsValidator />
                 <div class="d-flex flex-row gap-2">
                     <InputText class="form-control " placeholder="Enter a Task" @bind-Value="ti.Name"/>
@@ -19,12 +19,27 @@
             </EditForm>
         </div>
         <hr />
+        <div class="vstack">
+            @foreach (var lineItem in taskerItems)
+            {
+                <TaskerLine Item="lineItem" />
+            }
+
+        </div>
     </div>
 
 </div>
 
 @code {
     private TaskerItem ti = new();
+    private List<TaskerItem> taskerItems = new();
 
+
+    private void addTask()
+    {
+        ti.Id = Guid.NewGuid();
+        taskerItems.Add(ti);
+        ti = new();
+    }
 
 }
