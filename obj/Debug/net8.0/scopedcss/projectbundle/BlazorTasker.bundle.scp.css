@@ -152,3 +152,7 @@ main[b-wt0vj3cq34] {
     border-radius: 10px;
     min-width: 50%;
 }
+/* /Components/UI/TaskerLine.razor.rz.scp.css */
+.complete[b-0mop4kfq49] {
+    text-decoration: line-through;
+}

@@ -7,7 +7,7 @@ namespace BlazorTasker.Models
     { 
         public Guid Id { get; set; }
 
-        [Required(ErrorMessage = "Must have a Name!")]
+        [Required(ErrorMessage = "Task must have a Name!")]
         public string Name { get; set; } = "";
 
         public bool IsCompleted { get; set; } = false;

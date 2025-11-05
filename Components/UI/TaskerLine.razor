@@ -1,7 +1,7 @@
 ﻿<div class="d-flex flex-row">
-    <div><InputCheckbox @bind-Value="Item.IsCompleted"></InputCheckbox></div>
-    <div class="px-2 flex-grow-1">@Item.Name</div>
-    <div><i class="bi bi-trash-fill text-danger"></i></div>
+    <div><InputCheckbox @bind-Value="Item.IsCompleted" @bind-Value:after="updateItem"></InputCheckbox></div>
+    <div class="px-2 flex-grow-1 @(Item.IsCompleted ? "complete" : "")" >@Item.Name</div>
+    <div><a @onclick="deleteItem"><i class="bi bi-trash-fill text-danger"></i></a></div>
 </div>
 
 @code {
@@ -11,4 +11,23 @@
     /// </summary>
     [Parameter, EditorRequired]
     public TaskerItem? Item { get; set; } 
+
+    /// <summary>
+    /// Delete item callback
+    /// </summary>
+    [Parameter]
+    public EventCallback<TaskerItem> OnDeleteCallback { set; get; }
+
+    [Parameter]
+    public EventCallback<TaskerItem> OnCompleteCallback { set; get; }
+
+    private async Task deleteItem()
+    {
+        await OnDeleteCallback.InvokeAsync(Item);
+    }
+
+    private async Task updateItem()
+    {
+        await OnCompleteCallback.InvokeAsync(Item);
+    }
 }

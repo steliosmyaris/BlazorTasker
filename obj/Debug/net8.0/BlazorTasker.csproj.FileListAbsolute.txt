@@ -620,6 +620,7 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.AssemblyI
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.AssemblyInfo.cs
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.csproj.CoreCompileInputs.cache
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -815,6 +816,10 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\webcil\BlazorTasker.wa
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Pages\Tasker.razor.rz.scp.css
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\UI\TaskerLine.razor.rz.scp.css
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\bundle\BlazorTasker.styles.css
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\projectbundle\BlazorTasker.bundle.scp.css
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\blazor.build.boot-extension.json
@@ -1021,6 +1026,9 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\q3orygaqi2-
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\js45jdfz2l-tptq2av103.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\95ira1p82j-lfu7j35m59.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ukz28fo9wv-oyz0vx2fzb.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-vsdle0ifde.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-dhzj5njvuw.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-6pqehma0nv.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.development.json
@@ -1031,10 +1039,3 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.dll
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\refint\BlazorTasker.dll
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.pdb
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Pages\Tasker.razor.rz.scp.css
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-ffzfit9t0b.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-qgc8vol4nt.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-dld24ch3l0.gz
