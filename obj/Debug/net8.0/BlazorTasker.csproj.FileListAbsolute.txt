@@ -1026,9 +1026,6 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\q3orygaqi2-
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\js45jdfz2l-tptq2av103.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\95ira1p82j-lfu7j35m59.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ukz28fo9wv-oyz0vx2fzb.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-vsdle0ifde.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-dhzj5njvuw.gz
-C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-6pqehma0nv.gz
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\staticwebassets.development.json
@@ -1039,3 +1036,6 @@ C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.dll
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\refint\BlazorTasker.dll
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\BlazorTasker.pdb
 C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-80jpehuj4l.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-zru1dyd2mg.gz
+C:\Users\steli\source\repos\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-g2g1l0cs1r.gz
